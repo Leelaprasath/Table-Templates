@@ -1,0 +1,39 @@
+#black {
+    color: white;
+    background-color: black;
+}
+
+#BigFont {
+    font-size: 50px;
+}
+
+.Smalltext {
+    font-size: 25px;
+}
+
+.WhiteBlue {
+    background-color: blue;
+    color: white;
+}
+
+.bgblack {
+    background-color: black;
+    color: white;
+}
+
+.topwhite,
+.white {
+    background: white;
+}
+
+#Praesentfont {
+    font-size: 35px;
+}
+
+.font20 {
+    font-size: 20px;
+}
+
+.font15 {
+    font-size: 18px;
+}
